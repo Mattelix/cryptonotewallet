@@ -1,3 +1,8 @@
+**EasyCoin**
+Basically just a fork of CryptoNote. Not much changed, even default ports. Only change that matters is setting Target Diff time to 60 seconds instead of 120 seconds. Also fixed the in CMakeLists in src so it doesn't throw ConnectivityTool error while compiling.
+
+
+
 **1. Clone wallet sources**
 
 ```
