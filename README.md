@@ -3,6 +3,8 @@
 
 Not much changed, just the name for compilation of EasyCoin Wallet. Original readme below.
 
+##
+
 
 
 **1. Clone wallet sources**
